@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Bienvenido a mi repositorio, soy Carlos! 👋  
+Soy nuevo en esto de la programacion, actualmente estoy cursando una FP de DAW + Master en Ciberseguridad. 🚀  
 
-<!--
-**Carloscp92/Carloscp92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  Lenguajes y tecnologias en las que me estoy formando
+- 🔹 Lenguajes: JavaScript | Java | Python |  Html5
+- 🔹 IDEs: Intellij | VScode | Pycharm
+- 🔹 Bases de datos: MySQl
+- 🔹 Git
 
-Here are some ideas to get you started:
+### 📫 Conctacto 
+En construccion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estadísticas  
+En construccion
+
